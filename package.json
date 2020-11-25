@@ -2,7 +2,7 @@
   "name": "react-facebook-pixel",
   "version": "1.0.3",
   "description": "Pixel Kit for React",
-  "main": "dist/fb-pixel.js",
+  "main": "src/index.js",
   "types": "./types/index.d.ts",
   "scripts": {
     "start": "export NODE_ENV=development&& webpack-dev-server --config webpack.config.dev.js",
